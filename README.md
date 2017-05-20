@@ -1,3 +1,6 @@
+Gabriel le comparto mi nueva propuesta Timeline estaré atento de sus comentarios. En la carpeta Compilied encontrará todo el trabajo en .HTML y .json.
+
+
 #TimelineJS3
 ============
 
