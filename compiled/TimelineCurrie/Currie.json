@@ -1,0 +1,442 @@
+{
+	"title": {
+		"media": {
+				"url": "https://i1.wp.com/dabautistac.files.wordpress.com/2017/05/currie1retocada.png?ssl=1&w=450"
+		},
+            "text": {
+                "headline": "LAUCHLIN CURRIE 1902-1993",
+
+                "text":     "<a href='http://www.banrepcultural.org/blaavirtual/ayudadetareas/economia/personalidades_internacionales#Lauchlin_Currie' target='_blank'>Lauchlin Bernard Currie</a> (Nueva Escocia, Canadá, 8 de octubre de 1902 - Bogotá, Colombia, 23 de diciembre de 1993) fue un economista canadiense, nacionalizado colombiano. Se desempeñó como asesor económico en el gobierno de Estados Unidos y de Colombia, países en donde fue catedrático y propuso diversas políticas económicas."
+            }
+    },
+
+    "events": [
+        {
+            "start_date": {
+                "year":			"1902"
+
+            },
+
+						"background": {
+						"opacity":"50",
+							"url": "https://cdn.shopify.com/s/files/1/1021/8371/products/XGNB7_028.jpg?v=1493258305"
+						},
+
+
+
+            "text": {
+                "headline": "NACIMIENTO",
+                "text": "<a href='https://www.dukeupress.edu/the-life-and-political-economy-of-lauchlin-currie/?viewby=title' target= '_blank'>Nace en Nueva Escocia (Canadá) el 8 de octubre de 1902"
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1922"
+            },
+
+
+
+						"background": {
+			"opacity":"50",
+							"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/London_School_of_Economics_Coat_of_Arms.svg/1200px-London_School_of_Economics_Coat_of_Arms.svg.png"
+					},
+
+            "text": {
+                "headline": "LONDON SCHOOL OF ECONOMICS - LSE",
+                "text": "Lauchlin Currie estudió Economía en Inglaterra, en el London School of Economics, y después de obtener el grado en 1925, se dirigió a Estados Unidos, donde se encargó de introducir, junto con otros colegas, las ideas del economista inglés John Maynard Keynes."
+            }
+        },
+
+        {
+            "start_date": {
+                "year":			"1925"
+
+            },
+            "end_date": {
+                "year":			"1934"
+
+            },
+
+
+						"background": {
+			"opacity":"50",
+							"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Harvard_Crimson_logo.svg/1200px-Harvard_Crimson_logo.svg.png"
+					},
+
+            "text": {
+                "headline": "HARVARD UNIVERSITY",
+                "text": "Estudió su PhD y trabajó en <a href='http://www.emeraldinsight.com/doi/abs/10.1108/01443580410699295' target= '_blank'>Harvard</a> (Su mentor: Allyn Abbott Young. Su supervisor después de la muerte de Young: John H. Williams. Trabajó como asistente para Ralph Hawtrey y Joseph Schumpeter. Otros profesores: Frank Taussig y T.N. Carver)."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1934"
+							},
+
+
+
+						"background": {
+			"opacity":"50",
+							"url": "http://s3-origin-images.politico.com/news/110727_treasury_department_605_ap.jpg"
+					},
+
+            "text": {
+                "headline": "TESORERÍA DE ESTADOS UNIDOS",
+                "text": "Adopta la ciudadania estaodounidense y se integra a la Tesorería de Estados Unidos."
+            }
+        },
+
+
+
+				{
+					"start_date": {
+							"year":			"1934"
+						},
+						"end_date": {
+								"year":			"1939"
+
+						},
+
+            "media": {
+                "url": "https://i0.wp.com/dabautistac.files.wordpress.com/2017/05/currie-2.jpg?ssl=1&w=450"
+            },
+
+						"background": {
+			"opacity":"50",
+							"url": "http://www.twincities.com/wp-content/uploads/2015/11/20131224__131229-sunfed-cover1.jpg"
+					},
+
+            "text": {
+                "headline": "JUNTA DE LA RESERVA GENERAL",
+                "text": "En 1934 es nombrado jefe adjunto de investigación de la Junta de la Reserva Federal."
+            }
+        },
+
+				{
+					"start_date": {
+							"year":			"1939"
+						},
+						"end_date": {
+								"year":			"1945"
+
+						},
+
+            "media": {
+                "url": "http://www.documentstalk.com/wp/wp-content/uploads/currie_laughlin.jpg"
+            },
+
+						"background": {
+			"opacity":"50",
+							"url": "http://www.whitehousemuseum.org/images/white-house-south-face-1945.jpg"
+					},
+
+            "text": {
+                "headline": "CASA BLANCA",
+                "text": "<a href='http://www.nytimes.com/1993/12/30/obituaries/lauchlin-currie-91-new-deal-economist-was-roosevelt-aide.html' target= '_blank'>En 1939 se convirtió en el asistente económico especial del presidente Roosevelt </a> y durante los siguientes seis años escribió una serie de informes para la Casa Blanca sobre la política económica nacional, el comercio internacional y las reparaciones posteriores a la guerra."
+            }
+        },
+
+        {
+            "start_date": {
+                "year":			"1949"
+
+            },
+
+						"end_date": {
+								"year":			"1953"
+
+						},
+
+
+						"background": {
+			"opacity":"50",
+							"url": "https://s-media-cache-ak0.pinimg.com/originals/25/0a/7a/250a7a420ac935094c00b7af4971fc26.jpg"
+					},
+
+					"media": {
+
+						"caption": "BIRF, 1950, p.409",
+						"credit": "Lauchlin Currie",
+							"url": "<blockquote> “El  informe  de  la  misión  colombiana  y  su  presentación  al  gobierno y  al  público,  representó  “una  primicia  en  la  historia  del  Banco”. El  foco principal del informe era “tarea de elevar el nivel de vida de todo un pueblo en un período relativamente corto””</blockquote>",
+"thumb":    "https://openknowledge.worldbank.org/bitstream/handle/10986/13807/55403Spanish.pdf?sequence=1&isAllowed=y"
+
+
+					},
+            "text": {
+                "headline": "LLEGA A COLOMBIA",
+                "text": "<a href='https://openknowledge.worldbank.org/bitstream/handle/10986/13807/55403Spanish.pdf?sequence=1&isAllowed=y' target= '_blank'>1949 - Recrutado por el Banco Mundial para emprender la Misión en Colombia.</a> La Misión llegó en julio. <br> 1950 - En marzo el equipo integrado por 14 expertos extranjeros tuvo un borrador disponible con los hallazgos. <br> 1951 - Participa como asesor económico de Comité de Desarrollo Económico, encargado de construir un programa comprensivo a partir de las recomendaciones del informe. <br> 1952 - Creación del Consejo Nacional de Planeación del cual hicieron parte Currie, Albert O. Hirschman y el economista belga Jacques Torfs.<br> 1953 - Currie evaluó propuestas de inversión dirigidas el agro para la Caja Agraria, fue contratado por el Banco Popular y estuvo involucrado en proyectos de vivienda de bajo costo en Bogotá, Cali y Medellín."
+							}
+        },
+        {
+            "start_date": {
+                "year":			"1953"
+
+							},
+
+							"end_date": {
+									"year":			"1958"
+
+							},
+
+							"background": {
+							"opacity":"50",
+								"url": "https://farm5.static.flickr.com/4009/4691201132_6da92ef8ae_b.jpg"
+							},
+
+            "text": {
+                "headline": "INTERLUDIO GANADERO",
+                "text": "Currie renunció al Consejo Nacional de Planeación. El Banco Mundial suspendió los préstamos. Compró una finca en el pueblo de Albán que denominó “Los Robles” y se dedicó a la ganadería de leche durante la dictadura de Gustavo Rojas Pinilla."
+            }
+        },
+
+				{
+            "start_date": {
+                "year":			"1966"
+            },
+
+
+						"background": {
+				"opacity":"50",
+								"url": "https://http2.mlstatic.com/desarrollo-economico-acelerado-lauchlin-currie140-D_NQ_NP_18485-MLM20155583885_092014-F.jpg"
+						},
+
+
+					"media": {
+							"url": "https://i1.wp.com/dabautistac.files.wordpress.com/2017/05/libro.jpg?ssl=1&w=450"
+					},
+
+            "text": {
+                "headline": "DESARROLLO ECONÓMICO ACELERADO",
+                "text": "Gana el 1er Concurso Internacional sobre libros de Desarrollo, con <a href='http://www.emeraldinsight.com/doi/abs/10.1108/01443580410699295' target= '_blank'>“Desarrollo Económico Acelerado”</a>"
+            }
+        },
+
+        {
+            "start_date": {
+                "year":			"1959"
+            },
+            "end_date": {
+                "year":			"1966"
+
+
+							},
+
+
+							"background": {
+				"opacity":"50",
+								"url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cauca_localizacion.png"
+						},
+
+
+
+						"media": {
+								"url": "<iframe width='400' height='300' scrolling='no' frameborder='no' src='https://fusiontables.google.com/embedviz?q=select+col2%3E%3E0+from+13R3R0jJL2DS4uuxqGajz9vBCVXwGaa2MNdgx0way&amp;viz=MAP&amp;h=false&amp;lat=4.473480517759262&amp;lng=-70.98959721875009&amp;t=1&amp;z=5&amp;l=col2%3E%3E0&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE'></iframe>"
+						},
+
+
+            "text": {
+                "headline": "POLÍTICAS PÚBLICAS EN COLOMBIA",
+                "text": "<a href='https://searchworks.stanford.edu/view/46677' target= '_blank'>1959 - Fue nombrado director de un estudio de la región del Valle de Magdalena.</a> <br> 1960 - Dirigió un estudio del departamento del Meta bajo contrato con la Oficina Nacional de Planeación. Para este año ya había emprendido varios estudios económicos y administrativos diferentes regiones: Caldas, el Valle del Magdalena, el Valle del Sinú, la costa Atlántica, Barranquilla, Bogotá, y ahora el Meta y los Llanos Orientales. Escribió <a href='https://searchworks.stanford.edu/view/46677' target= '_blank'>Operación Colombia</a> como un documento confidencial para el Presidente Alberto Lleras."
+            }
+        },
+
+
+				{
+						"start_date": {
+								"year":			"1966"
+						},
+						"end_date": {
+                "year":			"1967"
+
+
+							},
+
+          "background": {
+				"opacity":"80",
+								"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Unal-CU-Bogota.png/640px-Unal-CU-Bogota.png"
+						},
+
+						"media": {
+							"caption": "Memoria Histórica FCE 60 años Homenaje a Lauchlin Currie",
+                "credit": "Facultad de Ciencias Económicas UN",
+								"url": "https://youtu.be/4bz560QJW6Y",
+								"thumb": 	""
+							},
+	            "text": {
+	                "headline": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+	                "text": "1966 -Fue nombrado Decano de la Facultad de Economía de la Universidad Nacional.<br>1966-1967 - Director del Centro de Investigaciones para el Desarrollo (CID) en la Universidad Nacional."
+	            },
+	            "unique_id": ""
+	        },
+
+					{
+							"start_date": {
+									"year":			"1966"
+							},
+							"end_date": {
+									"year":			"1971"
+
+
+								},
+
+
+								"background": {
+					"opacity":"50",
+									"url": "https://upload.wikimedia.org/wikipedia/en/4/48/Sfu_1967.jpg"
+							},
+
+
+							"text": {
+									"headline": "PROFESOR VISITANTE DE VARIAS UNIVERSIDADES",
+									"text": "Fue profesor visitante en Michigan State (1966), Simon Fraser (1967-1971), Glasgow (1968-1969) y en Oxford (1969)."
+							}
+					},
+
+					{
+							"start_date": {
+									"year":			"1971"
+							},
+
+
+
+								"background": {
+					"opacity":"50",
+									"url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Cafe_Quimbaya_2005-08-27.jpg"
+							},
+
+							"media": {
+                "caption": "¿Currie 2.0? El Espectador 11 May 2012 - 11:00 PM",
+                "credit": "Adolfo Meisel Roca",
+                "url": "<blockquote> “Las Cuatro Estrategias buscaban acelerar el ritmo de crecimiento económico concentrando los esfuerzos en: 1) construcción, 2) exportaciones, 3) agricultura y 4) redistribución del ingreso. Las tres primeras estrategias son prácticamente iguales a tres de las locomotoras del presidente Santos, cuyo plan de desarrollo prioriza cinco sectores donde están: la vivienda (que era lo que Currie proponía construir), la minería (para la exportación) y la agricultura.”</blockquote>",
+                "thumb": 	"http://www.elespectador.com/opinion/currie-20"
+						            },
+
+							"text": {
+									"headline": "CREACIÓN DEL PROGRAMA LAS CUATRO ESTRATEGÍAS",
+									"text": "Preparó el Plan Nacional de Desarrollo conocido como el <a href='https://colaboracion.dnp.gov.co/CDT/PND/Pastrana1_Prologo.pdf' target= '_blank'>Plan de las Cuatro Estrategias</a> para el gobierno del Presidente Misael Pastrana. Este Plan fue una versión revisada de Operación Colombia."
+							}
+					},
+
+					{
+							"start_date": {
+									"year":			"1971"
+							},
+
+
+						"end_date": {
+								"year":			"1981"
+},
+
+								"background": {
+					"opacity":"50",
+									"url": "http://contenidos.civico.com/wp-content/uploads/2015/09/carrera-decima.jpg"
+							},
+
+
+
+
+							"text": {
+									"headline": "DEPARTAMENTO NACIONAL DE PLANEACIÓN - DNP",
+									"text": "Trabajó en el Departamento Nacional de Planeación - DNP "
+							}
+					},
+
+					{
+							"start_date": {
+									"year":			"1981"
+							},
+
+
+
+
+								"background": {
+					"opacity":"50",
+									"url": "http://pegasus.javeriana.edu.co/~CIS0830TK01/image/logo_Ujaveriana.jpg"
+							},
+
+
+
+
+							"text": {
+									"headline": "PONTIFICIA UNIVERSIDAD JAVERIANA",
+									"text": "Profesor en la Universidad Javeriana."
+							}
+					},
+
+					{
+							"start_date": {
+									"year":			"1981"
+							},
+
+
+
+
+								"background": {
+					"opacity":"50",
+									"url": "https://economia.uniandes.edu.co/images/EV_2017/20_a%C3%B1os_EV/Captura_de_pantalla_2017-05-19_11.24.19.fw.png"
+							},
+
+							"media": {
+									"url": "https://i1.wp.com/dabautistac.files.wordpress.com/2017/05/uniandes1.png?ssl=1&w=450"
+							},
+
+
+							"text": {
+									"headline": "UNIVERSIDAD DE LOS ANDES",
+									"text": "<a href='https://economia.uniandes.edu.co/assets/archivos/Programas_Academicos/Pregrado/SeminarioPoliticaMacroeconomica_LauchlinCurrie_198720.pdf' target= '_blank'>Profesor en la Universidad de los Andes.</a><br> Nombrado profesor emérito de la Universidad de los Andes en 1982 "
+							}
+					},
+
+					{
+							"start_date": {
+									"year":			"1981"
+							},
+							"end_date": {
+									"year":			"1993"
+		},
+
+
+
+								"background": {
+					"opacity":"50",
+									"url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vista_de_Pamplona%2CColombia.JPG"
+							},
+
+
+
+
+							"text": {
+									"headline": "INSTITUTO COLOMBIANO DE AHORRO Y VIVIENDA",
+									"text": "Trabajó en el Instituto Colombiano de Ahorro y Vivienda "
+							}
+					},
+
+					{
+	            "start_date": {
+	                "year":			"1993"
+
+	            },
+
+							"background": {
+							"opacity":"50",
+								"url": "https://i1.wp.com/dabautistac.files.wordpress.com/2017/05/currie1retocada.png?ssl=1&w=450"
+							},
+
+						"media": {
+							"caption": "LAUCHLIN CURRIE El Tiempo  26 de diciembre de 1993, 05:00 am ",
+							"credit": "Redacción EL TIEMPO",
+							"url": "<blockquote> “...Currie es considerado uno de los más importantes economistas del siglo XX. Cerebro fugado del Canadá, se casó y se nacionalizó en Colombia, país al que aportó el elemento económico que rige la adquisición de vivienda. Currie murió dos días después de recibir la Orden, a los 91 años, víctima de una deficiencia cardíaca.”</blockquote>",
+							"thumb": 	"http://www.eltiempo.com/archivo/documento/MAM-280156"
+											},
+
+
+	            "text": {
+	                "headline": "CONDECORACIÓN Y MUERTE",
+	                "text": "Condecorado con la Cruz de Boyacá por el presidente César Gaviria. Muere de un paro cardiaco en 1993"
+	            }
+	        }
+
+
+
+	]
+}
