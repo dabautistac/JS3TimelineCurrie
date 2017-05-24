@@ -10,7 +10,9 @@
             }
     },
 
-    "events": [
+    "scale": "",
+
+		"events": [
         {
             "start_date": {
                 "year":			"1902"
@@ -26,7 +28,7 @@
 
             "text": {
                 "headline": "NACIMIENTO",
-                "text": "<a href='https://www.dukeupress.edu/the-life-and-political-economy-of-lauchlin-currie/?viewby=title' target= '_blank'>Nace en Nueva Escocia (Canadá) el 8 de octubre de 1902"
+                "text": "<a href='https://www.dukeupress.edu/the-life-and-political-economy-of-lauchlin-currie/?viewby=title' target= '_blank'>Nace en Nueva Escocia (Canadá) el 8 de octubre de 1902.</a> Hijo de Lauchlin Bernard Currie, operador de una flota de buques mercantes, y Alice Eisenhauer Currie, una maestra de escuela. En 1906, a la edad de cuatro años, el padre de Currie murió y su familia se trasladó a Bridgewater cerca de donde se hizo la mayor parte de su educación. Posteriormente asistió a escuelas en Massachusetts y California donde tenía parientes"
             }
         },
         {
@@ -43,7 +45,7 @@
 
             "text": {
                 "headline": "LONDON SCHOOL OF ECONOMICS - LSE",
-                "text": "Lauchlin Currie estudió Economía en Inglaterra, en el London School of Economics, y después de obtener el grado en 1925, se dirigió a Estados Unidos, donde se encargó de introducir, junto con otros colegas, las ideas del economista inglés John Maynard Keynes."
+                "text": "En 1922, después de dos años en la Universidad Saint Francis Xavier en Nueva Escocia, Currie se trasladó al Reino Unido para estudiar en la London School of Economics. Después de obtener su título en 1925, se dirigió a Estados Unidos, donde se encargó de introducir, junto con otros colegas, las ideas del economista inglés John Maynard Keynes."
             }
         },
 
@@ -65,7 +67,7 @@
 
             "text": {
                 "headline": "HARVARD UNIVERSITY",
-                "text": "Estudió su PhD y trabajó en <a href='http://www.emeraldinsight.com/doi/abs/10.1108/01443580410699295' target= '_blank'>Harvard</a> (Su mentor: Allyn Abbott Young. Su supervisor después de la muerte de Young: John H. Williams. Trabajó como asistente para Ralph Hawtrey y Joseph Schumpeter. Otros profesores: Frank Taussig y T.N. Carver)."
+                "text": "De la LSE, Currie se trasladó a la Universidad de <a href='http://www.emeraldinsight.com/doi/abs/10.1108/01443580410699295' target= '_blank'>Harvard</a>, allí conoció una de sus principales inspiraciones Allyn Abbott Young, entonces presidente de la American Economic Association. En Harvard, obtuvo su Ph.D. en 1931 con una disertación sobre la teoría bancaria. También trabajó como asistente para Ralph Hawtrey y Joseph Schumpeter."
             }
         },
         {
@@ -82,7 +84,7 @@
 
             "text": {
                 "headline": "TESORERÍA DE ESTADOS UNIDOS",
-                "text": "Adopta la ciudadania estaodounidense y se integra a la Tesorería de Estados Unidos."
+                "text": "En 1934, Currie se convirtió en un ciudadano estadounidense y se integró a la Tesorería de los Estados Unidos, allí realizó un sistema monetario ideal para este país, que incluía un plan de reserva bancaria de 100 por ciento para fortalecer el control del banco central."
             }
         },
 
@@ -287,8 +289,8 @@
 
 
 							"text": {
-									"headline": "PROFESOR VISITANTE DE VARIAS UNIVERSIDADES",
-									"text": "Fue profesor visitante en Michigan State (1966), Simon Fraser (1967-1971), Glasgow (1968-1969) y en Oxford (1969)."
+									"headline": "PROFESOR VISITANTE EN DIFERENTES UNIVERSIDADES",
+									"text": "Fue profesor visitante en: <br> Michigan State (1966) <br> Simon Fraser (1967-1971) <br> Glasgow (1968-1969) <br> Oxford (1969)"
 							}
 					},
 
@@ -332,7 +334,12 @@
 									"url": "http://contenidos.civico.com/wp-content/uploads/2015/09/carrera-decima.jpg"
 							},
 
-
+							"media": {
+								"caption": "Stanford University Libraries",
+								"credit": "Departamento Nacional de Planeacion, 1974.Lauchlin Currie",
+								"url": "<blockquote> El Plan de desarrollo colombiano en marcha; seminario de la Sociedad Colombiana de Economistas </blockquote>",
+								"thumb": 	"https://searchworks.stanford.edu/view/843885"
+												},
 
 
 							"text": {
@@ -402,7 +409,12 @@
 									"url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vista_de_Pamplona%2CColombia.JPG"
 							},
 
-
+							"media": {
+								"caption": "Universidad del Rosario",
+								"credit": "Política de Vivienda: Alcances y Perspectivas.",
+								"url": "<blockquote> “Para el Instituto Colombiano de Ahorro y Vivienda (ICAV) (...) existe un interés en promover la política de vivienda para transformar el esquema de tenencia y para dinamizar otros sectores de la economía, especialmente los ligados a la construcción y el empleo, haciendo eco de los planteamientos desarrollistas del profesor Lauchlin Currie en los años setenta“ </blockquote>",
+								"thumb": 	"http://www.urosario.edu.co/Universidad-Ciencia-Desarrollo/ur/Fasciculos-Anteriores/Tomo-II-2007/Fasciculo-11/ur/Politica-de-Vivienda--Alcances-y-Perspectivas-/"
+												},
 
 
 							"text": {
